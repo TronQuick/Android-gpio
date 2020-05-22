@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPIOtest</string>
+    <string name="IO_btn">GPIOtest</string>
+</resources>
